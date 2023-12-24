@@ -88,3 +88,7 @@ Xampp->apache->conf->extra->vhost-conf file-> set virtual host as slim after unc
 ![d](https://github.com/tansrh/codechef/assets/107149612/58ef2a9a-e97f-4893-a4a7-5020f62d4b60)
 ![c](https://github.com/tansrh/codechef/assets/107149612/38d39455-a0eb-4f7b-9789-4196f160d7b3)
 ![b](https://github.com/tansrh/codechef/assets/107149612/f73ffa8b-ab4a-42a2-a862-0ae638de06e3)
+
+
+
+All the asked parameters have been implemented successfully(from replies, to moderators, 5 min limit, etc.). Various features can been seen on operating the app such as notifications, etc. Slim v3 has been used for backend.
