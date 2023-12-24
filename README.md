@@ -81,4 +81,10 @@ Xampp->apache->conf->extra->vhost-conf file-> set virtual host as slim after unc
 
 
 
-
+![a](https://github.com/tansrh/codechef/assets/107149612/4b758193-e6c7-4585-9cfc-0dc7c66ae0d5)![hh](https://github.com/tansrh/codechef/assets/107149612/0930266f-1ac1-4236-a479-44885b7939b3)
+![g](https://github.com/tansrh/codechef/assets/107149612/8536cafb-4d34-4d3b-aa90-c7b8ffa49b84)
+![f](https://github.com/tansrh/codechef/assets/107149612/2d958804-1a6a-4ea0-97f3-a0bff102af44)
+![e](https://github.com/tansrh/codechef/assets/107149612/9a03fdb7-1a68-45ed-82bd-2cb172108669)
+![d](https://github.com/tansrh/codechef/assets/107149612/58ef2a9a-e97f-4893-a4a7-5020f62d4b60)
+![c](https://github.com/tansrh/codechef/assets/107149612/38d39455-a0eb-4f7b-9789-4196f160d7b3)
+![b](https://github.com/tansrh/codechef/assets/107149612/f73ffa8b-ab4a-42a2-a862-0ae638de06e3)
